@@ -3,20 +3,28 @@
 
 
 
-[![RISC-V](https://img.shields.io/badge/RISC--V-SoC-blue?style=for-the-badge&logo=riscv)](https://github.com/riscv/learn)[![VSD](https://img.shields.io/badge/VSD-Program-orange?style=for-the-badge)](https://www.vlsisystemdesign.com/)
+[![RISC-V](https://img.shields.io/badge/RISC--V-SoC-blue?style=for-the-badge&logo=riscv)](https://github.com/riscv/learn)
+[![VSD](https://img.shields.io/badge/VSD-Program-orange?style=for-the-badge)](https://www.vlsisystemdesign.com/)
 [![Progress](https://img.shields.io/badge/Weekly%20Tasks-Documented-success?style=for-the-badge)](https://github.com/Techwithram/RISC-V-SOC-Tapeout-Program/blob/main/README.md)
 [![Open-Source](https://img.shields.io/badge/Open--Source-EDA%20Tools-brightgreen?style=for-the-badge)](https://vlsiresources.com/opensourcevlsi/)
 
 
 Welcome to my documentation of the **RISC-V SoC Tapeout Program by VSD**   
-This repository gives  the **overview** of my weekly tasks through this Journey, with each week maintained in a **separate GitHub repository** and the overall progress will be shared here.  
+This repository gives  the **overview** of my weekly tasks through this Journey, with each week maintained in a **new and unique GitHub repository** and the overall progress will be shared here.  
 
 ---
-"From RTL to GDSII, we design silicon step by step, mastering open-source tools and contributing to India’s largest collaborative RISC-V tapeout initiative."
+
+_"Right from Market analysis, spec to GDSII, we design and manufacture silicon step by step, that too while mastering open-source tools and taking part in India's Semiconductor Mission through a great opportunity given by VSD team and most importantly learning the indusrtial flow as an engineer."_
+
+
+
+---
+
+
 
 ## 📂 Repository Structure
 
-Each week has its own dedicated repo:  
+Every week's work is given as each repo   
 
 | Week | Focus Area | Repository Link | Status |
 |------|------------|-----------------|---------|
@@ -42,24 +50,23 @@ Each week has its own dedicated repo:
 | **Magic** | Layout & DRC | ✅ Installed |
 | **OpenLane** | Complete RTL → GDSII Flow | ✅ Installed |
 
-### 🌟 Key Learnings
+---
+
+### 🌟 Key Take aways
 - Set up the **EDA toolchain** successfully on Ubuntu 22.04.  
 - Understood the **importance of each tool** in the RTL-to-GDSII flow.  
-- Verified environment with **sample test runs**.  
-- Prepared ground for **Week 1 RTL design tasks**.  
+- Launch Pad is ready for **Week 1 RTL design tasks**.  
 
 ---
 
 ## 📈 Progress Tracker
 
-<div align="center">
 
 [![Week 0](https://img.shields.io/badge/Week%200-✅%20Done-green?style=flat-square)](https://github.com/Nideshkanna/week0-getting-started)
 ![Week 1](https://img.shields.io/badge/Week%201-⏳%20Pending-lightgrey?style=flat-square)
-![Week 2](https://img.shields.io/badge/Week%202-Upcoming-blue?style=flat-square)
+![Week 2](https://img.shields.io/badge/Week%202-Upcoming-blue?style=flat-square) 
 ![Week 3](https://img.shields.io/badge/Week%203-Upcoming-blue?style=flat-square)
 
-</div>
 
 ---
 
@@ -80,4 +87,4 @@ I am grateful to:
 
 ---
 
-👨‍💻 **Maintainer:** [Nidesh Kanna R](https://github.com/Nideshkanna)
+👨‍💻 **Maintainer:** [Tatikonda Ramakrishna](https://github.com/Techwithram)
