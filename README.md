@@ -28,7 +28,7 @@ Every week's work is given as each repo
 
 | Week | Focus Area | Repository Link | Status |
 |------|------------|-----------------|---------|
-| **Week 0** | 🔧 Environment Setup & Tool Installation | [Week0](https://github.com/Nideshkanna/week0-getting-started) | ✅ Done |
+| **Week 0** | 🔧 Environment Setup & Tool Installation | [Week0](https://github.com/Techwithram/Week-0-of-RISC-V-SoC-Program) | ✅ Done |
 | **Week 1** | 📝 RTL Design Basics | *(Coming Soon)* | ⏳ Pending |
 | **Week 2** | 🔄 RTL to Gate-Level Synthesis | *(Upcoming)* | ⏳ Pending |
 | **Week 3** | 🏗️ Floorplanning & Placement | *(Upcoming)* | ⏳ Pending |
