@@ -62,7 +62,7 @@ Every week's work is given as each repo
 ## 📈 Progress Tracker
 
 
-[![Week 0](https://img.shields.io/badge/Week%200-✅%20Done-green?style=flat-square)](https://github.com/Nideshkanna/week0-getting-started)
+[![Week 0](https://img.shields.io/badge/Week%200-✅%20Done-green?style=flat-square)](https://github.com/Techwithram/Week-0-of-RISC-V-SoC-Program)
 ![Week 1](https://img.shields.io/badge/Week%201-⏳%20Pending-lightgrey?style=flat-square)
 ![Week 2](https://img.shields.io/badge/Week%202-Upcoming-blue?style=flat-square) 
 ![Week 3](https://img.shields.io/badge/Week%203-Upcoming-blue?style=flat-square)
