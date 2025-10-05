@@ -29,8 +29,8 @@ Every week's work is given as each repo
 | Week | Focus Area | Repository Link | Status |
 |------|------------|-----------------|---------|
 | **Week 0** | 🔧 Environment Setup & Tool Installation | [Week0](https://github.com/Techwithram/Week-0-of-RISC-V-SoC-Program) | ✅ Done |
-| **Week 1** | 📝 RTL Design Basics | [Week1](https://github.com/Techwithram/Week-1-of-RISC-V-SoC-Program) | ⏳ Pending |
-| **Week 2** | 🔄 RTL to Gate-Level Synthesis | *(Upcoming)* | ⏳ Pending |
+| **Week 1** | 📝 RTL Design Basics | [Week1](https://github.com/Techwithram/Week-1-of-RISC-V-SoC-Program) | ✅ Completed |
+| **Week 2** | 🔄 RTL to Gate-Level Synthesis | [Week2](https://github.com/Techwithram/Week-2-of-RISC-V-SoC-Program) | ✅ Completed |
 | **Week 3** | 🏗️ Floorplanning & Placement | *(Upcoming)* | ⏳ Pending |
 | **Week 4** | ⏰ Clock Tree & Routing | *(Upcoming)* | ⏳ Pending |
 | **Week 5+** | 🎯 Tapeout Prep & Verification | *(Upcoming)* | ⏳ Pending |
