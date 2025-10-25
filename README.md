@@ -33,7 +33,7 @@ Every week's work is given as each repo
 | **Week 2** | 🔄 RTL to Gate-Level Synthesis | [Week2](https://github.com/Techwithram/Week-2-of-RISC-V-SoC-Program) | ✅ Completed |
 | **Week 3** | 🏗️ Floorplanning & Placement | *(Upcoming)* | ⏳ Pending |
 | **Week 4** | ⏰ Clock Tree & Routing | *(Upcoming)* | ⏳ Pending |
-| **Week 5+** | 🎯 Tapeout Prep & Verification | *(Upcoming)* | ⏳ Pending |
+| **Week 5+** | 🎯 Tapeout Prep & Verification | [Week 5](https://github.com/Techwithram/Week-5-of-RISC-V-SoC-Program/tree/main) | ⏳ Pending |
 
 ---
 
